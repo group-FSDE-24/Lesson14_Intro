@@ -1,4 +1,4 @@
-﻿namespace Lesson14_Intro.Models.Abstracts;
+﻿namespace Lesson14_Intro.Models.Entities.Abstracts;
 
 public abstract class BaseEntity
 {

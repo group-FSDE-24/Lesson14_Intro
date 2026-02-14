@@ -1,6 +1,6 @@
-﻿using Lesson14_Intro.Models.Abstracts;
+﻿using Lesson14_Intro.Models.Entities.Abstracts;
 
-namespace Lesson14_Intro.Models.Concretes;
+namespace Lesson14_Intro.Models.Entities.Concretes;
 
 public class Product : BaseEntity
 {
